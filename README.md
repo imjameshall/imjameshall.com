@@ -7,5 +7,4 @@ Basing a lot of this off of my friend [DestroyToday's](http://www.destroytoday.c
 
 * [Rules](https://github.com/imjameshall/imjameshall.com/wiki/Rules)
 * [Structure](https://github.com/imjameshall/imjameshall.com/wiki/Structuring)
-* [Inspiration](https://github.com/destroytoday/destroytoday.com/wiki/Inspiration)
 * [Progress](https://github.com/imjameshall/imjameshall.com/wiki/Progress)
