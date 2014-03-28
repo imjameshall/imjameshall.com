@@ -1,0 +1,7 @@
+.*
+node_modules/*
+LICENSE
+README.md
+assets/styles/*.sass
+assets/styles/*.scss
+assets/scripts/*.coffee
