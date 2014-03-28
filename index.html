@@ -1,0 +1,31 @@
+{% capture content %}
+ 
+<div class='content-body'>
+  {{ body }}
+</div>
+ 
+  <section class='about-section section'>
+  <h3 class="section-title">About Me</h3>
+  Living in ATL. This is placeholder text for now.
+  </section>
+
+  <section class='blog-section section'>
+  <h3 class="section-title">Blog Entries</h3>
+  <ul>
+    {% for post in site.pages.blog.posts %}
+    	<li><a href="{{post.url}}">{{post.title}}</a> - Posted on {{post.date | date: "%b %d, %Y"}}</li>
+    {% endfor %}
+  </ul>
+  </section>
+
+  <section class='work-section section'>
+  <h3 class="section-title">My Work</h3>
+  <ul>
+    <li>Work 1 Example</li>
+    <li>Work 2 Example</li>
+  </ul>
+  </section>
+
+{% endcapture %}
+
+{% include 'layouts/default' %}
