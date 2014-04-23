@@ -9,17 +9,20 @@ $code-font: "Monaco", monospace, serif;
 
 // reset
 
-// @media screen and (max-device-width: 480px){
-// html
-//   -webkit-text-size-adjust: 100%;
-//   -ms-text-size-adjust: 100%;
-// }
+@media screen and (max-device-width: 480px){
+  html{
+    -webkit-text-size-adjust: 100%;
+    -ms-text-size-adjust: 100%;
+  }
+}
 
-  // *,
-  // *:before,
-  // *:after{
-  //   +prefix-property(box-sizing, border-box);
-  // }
+@mixin box-sizing( $type: border-box ) {
+    -webkit-box-sizing: $type;
+       -moz-box-sizing: $type;
+         -o-box-sizing: $type;
+        -ms-box-sizing: $type;
+            box-sizing: $type;
+}
 
 ul{
   padding: 0;
