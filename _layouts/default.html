@@ -13,6 +13,8 @@
 	    <link href='/assets/styles/screen.css' rel='stylesheet'>
       {% include 'includes/analytics' %}
       {% include 'includes/typekit' %}
+
+      <link href="//static.cushionapp.com/availability.css" rel="stylesheet">
     </head>
     <body>
         <header id='main-header' class='main-header ss-navigatedown'>
@@ -49,10 +51,17 @@
         </nav>
       </div>
     </header>
+    <main class='main-content'>
+      <div class='wrapper'>
         {{ content }}
+      </div>
+    </main>
     </body>
     <footer class='main-footer'>
+    <p>Made <span class="ss-icon">with soul</span> in Atlanta</p>
       <p>&copy; {{ site.date | date: '%Y' }} James Hall</p>
     </footer>
     <script src='/assets/scripts/site.js'></script>
+    <script src="//static.cushionapp.com/availability.js"
+      data-user="d9e2d2d8-2e43-4020-a893-70f88fe67aad"></script>
 </html>

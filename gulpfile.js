@@ -32,7 +32,7 @@ var gulp = require('gulp'),
       });
 
       gulp.watch('./assets/scripts/**/*.js', function() {
-        gulp.run('js');
+        gulp.run('coffee');
       });
     });
 

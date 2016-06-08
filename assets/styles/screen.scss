@@ -14,7 +14,7 @@ $code-font: "Monaco", monospace, serif;
     -webkit-text-size-adjust: 100%;
     -ms-text-size-adjust: 100%;
   }
-}
+} 
 
 @mixin box-sizing( $type: border-box ) {
     -webkit-box-sizing: $type;
@@ -73,12 +73,37 @@ h3{
 }
 
 // header
-
+.main-header{
+  z-index: 1;
+  position: relative;
+  overflow: hidden;
+  padding: 2rem 0;
+  height: 6.25rem;
+  > .wrapper{
+    max-width: 750px;
+    margin: 0 auto;
+  }
+}
 // nav
 
 // content
-
+.main-content{
+  overflow-x: hidden;
+  min-height: 50vh;
+  top: 10.375rem;
+  margin: 1rem 0 2rem;
+  padding: 0 1rem;
+  > .wrapper{
+    max-width: 750px;
+    margin: 0 auto; 
+  }
+}
 // footer
+.main-footer{
+  padding: 2em 0;
+  font-size: 0.75em;
+  text-align: center;
+}
 
 // pagination
 
