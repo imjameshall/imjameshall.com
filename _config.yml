@@ -15,7 +15,9 @@ defaults:
   values:
     layout: post
     permalink: "/projects/:title/"
-    intercome: true
+    subheading: ''
+    homepage-image: ''
+    featured-image: ''
 - scope:
     path: ''
     type: pages
