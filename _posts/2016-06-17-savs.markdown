@@ -2,5 +2,20 @@
 title: S.A.V.S.
 date: 2016-06-17 18:46:00 Z
 subheading: bringing style to mac os screensavers
+homepage-image: "/uploads/5769cd7a15812savsinaction.gif"
 ---
 
+If anyone knows me, they know that my partner in crime most of the times on my internet antics is Joshua Corliss. He usually comes to me with insane ideas that I usually shoot down and move onto the next thing. One day he sent me a swf file of basically what I could describe as a waterfall of colors:
+
+
+And he mentioned to me “What if we had this as a Mac Screen saver, with time and weather over it?”  I’d been out of the Apple development scene for a few months and this seemed like an awesome challenge to take on. 
+
+Me and Josh work wonderfully together. It’s definitely a brotherly type setting. We’re brutally honest and it really allows us to put out the best product we can. Josh typically likes to try to describe his design desires through text but there were plenty of times he had to show me exactly what he meant with examples
+
+![SaverWidthsGuidesb.png](/uploads/SaverWidthsGuidesb.png)
+
+Embed HZ_Test.
+
+I decided to write the entire application in Swift as opposed to Objective C, as It was a framework everyone has been ranting and raving about so I figured i’d jump in to it and see what it was about.
+
+I definitely had some aggrivating and hair pulling moments with the framework. I had multiple instances of where I knew how to do something in objective-c but had to google for the alternative, or figure out exactly how to go around my issues in Swift. To be honest i’m not 100% of the code that is in the app, but the app came out tremendous. 
