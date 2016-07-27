@@ -7,6 +7,7 @@ homepage-image: "/uploads/5769cd7a15812savsinaction.gif"
 
 If anyone knows me, they know that my partner in crime most of the times on my internet antics is Joshua Corliss. He usually comes to me with insane ideas that I usually shoot down and move onto the next thing. One day he sent me a swf file of basically what I could describe as a waterfall of colors:
 
+![savsexample.gif](/uploads/savsexample.gif)
 
 And he mentioned to me “What if we had this as a Mac Screen saver, with time and weather over it?”  I’d been out of the Apple development scene for a few months and this seemed like an awesome challenge to take on. 
 
