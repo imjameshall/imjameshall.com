@@ -1,11 +1,9 @@
 ---
 title: ImGame
-date: 2016-06-15 14:52:00 Z
+date: 2012-06-15 14:52:00 Z
 permalink: "/projects/:title"
 categories:
 - projects
 subheading: Checking into Gaming
-homepage-image: 
-featured-image: 
 ---
 
