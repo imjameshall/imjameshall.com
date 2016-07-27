@@ -2,22 +2,21 @@
 layout: default
 ---
 
-<div class="home">
-
-  <h1 class="page-heading">Posts</h1>
-
-  <ul class="post-list">
+<img src='{{ site.baseurl }}/img/homepage-image.jpg'/>
+<p>
+  I'm a developer who likes to create apps, websites and occasionally a bad joke. I love taking on projects that push the boundries of current design trends and pride myself on being able to get projects out under extremely tight deadlines.
+</p>
+<h2>Here is what i've been up to:</h2>
+<ul id="categories" class="clr">
     {% for post in site.posts %}
-      <li>
-        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
-
-        <h2>
-          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-        </h2>
-      </li>
+    <li>
+        <div><a class="post-link" href="{{ post.url | prepend: site.baseurl }}">
+            <p>{{ post.title }}
+            <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+            </p>
+            {{ post.homepage-image}}
+            </a>
+        </div>
+    </li>
     {% endfor %}
-  </ul>
-
-  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
-
-</div>
+</ul>
