@@ -4,7 +4,7 @@ date: 2016-01-14 16:22:00 Z
 homepage-image: "/uploads/Screenshot%202016-07-26%2022.37.11.jpg"
 ---
 
-This is a repost from my article _"[Why I Wander](https://medium.com/@imjameshall/why-i-wander-ff316e82cbd1#.pzob92w79)"_
+_This is a repost from my article "[Why I Wander](https://medium.com/@imjameshall/why-i-wander-ff316e82cbd1#.pzob92w79)"_
 
 It’s always been a dream of mine to host a different kind of conference. When I think of conferences, I imagine people crammed into a room with their attention split between the presentation and their social feed. I’ve had enough of the typical keynote speech and networking happy hours. I crave something more and a deeper connection with my peers.
 
