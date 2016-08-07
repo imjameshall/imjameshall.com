@@ -13,11 +13,15 @@ Back to 1994 I was 13 years old and in the boy scouts, and I enjoyed every secon
 
 I grew up in the Florida Keys and for the most part we stayed in our region for all of our camping adventures. However, one year our troop finally decided instead of doing the usual camping trips we were going to do the grandaddy of boy scout hikes — Philmont.
 
+![1-MION601O1clo4nctecmshQ.jpeg](/uploads/1-MION601O1clo4nctecmshQ.jpeg)
+
 Philmont Scout Ranch is 220 square miles of paths in the Rocky Mountains. A place a young boy like myself only dreams of. I was lucky enough to just squeak by on the age requirements and was allowed to go as the youngest scout in our expedition.
 
 That’s me on the far left, about to tackle the mountains!This was the first time I had ever seen mountains, let alone hiked at such a high altitude. I remember very vividly getting to an opening on a mountainside and seeing as far east as my eyes would let me. The sense of inspiration and wonder that hit me in that moment is almost indescribable. While I don’t remember everything from that trip, that experience has stuck with me ever since.
 
 </outdoor activities> I was lucky. I was one of the last generations to grow up without the “luxury” of having 24/7 access to the internet. I knew the value of playing outdoors and using my imagination. After high school though, the internet took control. I became obsessed with programming and everything that came with it and didn’t go hiking again for many years. I had done a few camp outs with some friends but those were more like: “hey let’s get a tent, a ton of beer and go crazy” type events than really connecting with nature.
+
+![1-5YI-Ctjd-pBsc92_w7bIvg.jpeg](/uploads/1-5YI-Ctjd-pBsc92_w7bIvg.jpeg)
 
 Return to Nature Finally in 2011, I had the chance to start hiking again. I purchased all new gear (which was a HUGE change from what I had in ’94) and set out on a hike in the Appalachian mountains. As soon as we started, I felt invigorated. I experienced those same feelings of inspiration and awe that I had all those years before. I was disconnected from all the tweets, emails, and Facebook posts that I had become so focused on. Nature was all around me and I had clarity.
 
