@@ -7,6 +7,8 @@ categories:
 homepage-image: "/uploads/Screenshot%202016-07-26%2022.37.11.jpg"
 ---
 
+This is a repost from my article "[Why I Wander](https://medium.com/@imjameshall/why-i-wander-ff316e82cbd1#.pzob92w79)"
+
 It’s always been a dream of mine to host a different kind of conference. When I think of conferences, I imagine people crammed into a room with their attention split between the presentation and their social feed. I’ve had enough of the typical keynote speech and networking happy hours. I crave something more and a deeper connection with my peers.
 
 Back to 1994 I was 13 years old and in the boy scouts, and I enjoyed every second of it (#noshame). I loved being outdoors, hiking and camping outside. We learned all sorts of awesome things, like how to start a fire and orienteering. When I accepted the wilderness survival badge from my scout master I was SUPER proud of it. To be honest, I still am.
