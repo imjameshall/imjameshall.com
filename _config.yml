@@ -18,6 +18,7 @@ defaults:
     subheading: ''
     homepage-image: ''
     featured-image: ''
+    collaborators: []
 - scope:
     path: ''
     type: pages
