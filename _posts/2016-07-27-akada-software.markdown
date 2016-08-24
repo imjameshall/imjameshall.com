@@ -2,6 +2,9 @@
 title: Akada Software
 date: 2016-07-27 03:01:00 Z
 homepage-image: "/uploads/Screenshot%202016-07-26%2023.02.02.png"
+collaborators:
+- Son&Sons
+- 
 ---
 
 Akada Software was in need of an updating. They approached Son&Sons for new branding and a new take on their website. After getting a beautiful new Brand treatment, Son&Sons own Larry Luk reached out to me to meet with the team to see if I was available to tackle the job.
