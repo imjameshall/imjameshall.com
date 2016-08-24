@@ -9,4 +9,3 @@ collaborators:
 - 
 ---
 
-One great thing about me and my fiancee Audrey is that we absolutely love traveling. It's really what recharges us and helps us escape away from everything.
