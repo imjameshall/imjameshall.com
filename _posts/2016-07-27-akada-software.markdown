@@ -1,6 +1,8 @@
 ---
 title: Akada Software
-date: 2016-07-27 03:01:00 Z
+date: 2016-07-26 23:01:00 -04:00
+categories:
+- work
 homepage-image: "/uploads/Screenshot%202016-07-26%2023.02.02.png"
 collaborators:
 - Son&Sons
