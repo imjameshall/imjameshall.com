@@ -1,6 +1,8 @@
 ---
 title: S.A.V.S.
-date: 2016-06-17 18:46:00 Z
+date: 2016-06-17 14:46:00 -04:00
+categories:
+- work
 subheading: bringing style to mac os screensavers
 homepage-image: "/uploads/5769cd7a15812savsinaction.gif"
 ---
