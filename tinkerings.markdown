@@ -1,6 +1,6 @@
 ---
 title: Tinkerings
-date: 2016-08-23 01:02:00 Z
+date: 2016-08-22 21:02:00 -04:00
 layout: tinkerings
 ---
 

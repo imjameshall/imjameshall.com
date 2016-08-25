@@ -9,7 +9,9 @@ layout: default
 </p>
 <h2>Here's what we've been up to:</h2>
 <ul class="work" class="clr">
-    {% for post in site.posts limit: 5%}
+  {% for post in site.posts %}
+  {% if post.categories contains "work" %}
+
     <li class='work-item'>
         <div>
 
@@ -25,5 +27,7 @@ layout: default
             </a>
         </div>
     </li>
+    {% endif %}
     {% endfor %}
+
 </ul>
