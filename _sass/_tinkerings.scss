@@ -1,0 +1,12 @@
+.tinkerings {
+    ul {
+        display: flex;
+        flex-direction: row;
+        flex-wrap: wrap;
+        li {
+            list-style: none;
+            display: inline-block;
+            width: calc(100% / 3);
+        }
+    }
+}
