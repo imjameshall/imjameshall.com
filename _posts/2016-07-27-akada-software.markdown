@@ -5,7 +5,8 @@ categories:
 - work
 homepage-image: "/uploads/Screenshot%202016-07-26%2023.02.02.png"
 collaborators:
-- Son&Sons
+- name: Son&Sons
+  url: http://sonandsons.com
 - 
 ---
 
