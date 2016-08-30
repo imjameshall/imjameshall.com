@@ -227,3 +227,22 @@ pre {
         }
     }
 }
+
+
+
+/**
+* Item List
+*/
+.item-list {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    .item {
+        list-style: none;
+        display: inline-block;
+        width: calc(100% / 2);
+        .post-link{
+          padding: 20px;
+        }
+    }
+}
