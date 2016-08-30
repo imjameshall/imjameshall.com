@@ -4,6 +4,9 @@ date: 2016-01-14 11:22:00 -05:00
 categories:
 - work
 homepage-image: "/uploads/Screenshot%202016-07-26%2022.37.11.jpg"
+collaborators:
+- name: Audrey Sianko
+  url: http://audreysianko.com
 ---
 
 _This is a repost from my article "[Why I Wander](https://medium.com/@imjameshall/why-i-wander-ff316e82cbd1#.pzob92w79)"_
