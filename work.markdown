@@ -3,6 +3,7 @@ title: Work
 date: 2016-08-25 14:47:00 -04:00
 ---
 
+<div class="item-list clr">
 {% for post in site.posts %}
 {% if post.categories contains "work" %}
 <div class='item'>
@@ -14,3 +15,4 @@ date: 2016-08-25 14:47:00 -04:00
 </div>
 {% endif %}
 {% endfor %}
+</div>
