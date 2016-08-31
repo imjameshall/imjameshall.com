@@ -244,5 +244,8 @@ pre {
         .post-link{
           padding: 20px;
         }
+        @include media-query($on-palm) {
+          width: 100%;
+        }
     }
 }
