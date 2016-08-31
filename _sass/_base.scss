@@ -241,6 +241,9 @@ pre {
         list-style: none;
         display: inline-block;
         width: calc(100% / 2);
+        img{
+          max-height: 200px;
+        }
         .post-link{
           padding: 20px;
         }
