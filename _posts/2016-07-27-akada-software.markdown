@@ -3,6 +3,7 @@ title: Akada Software
 date: 2016-07-26 23:01:00 -04:00
 categories:
 - work
+subheading: SVG animations and bright colors make for a great rebrand!
 homepage-image: "/uploads/Screenshot%202016-07-26%2023.02.02.png"
 collaborators:
 - name: Son&Sons
