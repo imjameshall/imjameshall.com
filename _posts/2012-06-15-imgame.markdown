@@ -6,5 +6,8 @@ categories:
 - work
 subheading: my first startup. checking into gaming.
 homepage-image: "/uploads/peek.jpg"
+collaborators:
+- name: Joshua Corliss
+  url: http://twitter.com/jayemsee
 ---
 
