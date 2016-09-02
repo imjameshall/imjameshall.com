@@ -5,5 +5,8 @@ categories:
 - work
 subheading: bringing style to big orange
 homepage-image: "/uploads/screen1024x1024.jpeg"
+collaborators:
+- name: MaxMedia
+  url: http://maxmedia.com
 ---
 
