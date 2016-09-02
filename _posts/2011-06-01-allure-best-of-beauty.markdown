@@ -5,5 +5,8 @@ categories:
 - work
 subheading: bringing allure's biggest issue to mobile.
 homepage-image: "/uploads/allure.jpg"
+collaborators:
+- name: AgencyNet
+  url: http://www.agencyten.com/
 ---
 
