@@ -5,5 +5,8 @@ categories:
 - work
 subheading: Having some fun for Cinco De Mayo!
 homepage-image: "/uploads/mariachi.gif"
+collaborators:
+- url: http://www.agencyten.com
+  name: AgencyNet
 ---
 
