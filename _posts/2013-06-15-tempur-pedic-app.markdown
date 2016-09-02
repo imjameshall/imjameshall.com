@@ -5,5 +5,8 @@ categories:
 - work
 subheading: Creating a fun informative brochure for a great matress brand.
 homepage-image: "/uploads/tempurpedic.jpg"
+collaborators:
+- url: http://www.maxmedia.com
+  name: MaxMedia
 ---
 
