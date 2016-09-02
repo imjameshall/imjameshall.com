@@ -237,6 +237,9 @@ pre {
     display: flex;
     flex-direction: row;
     flex-wrap: wrap;
+    h2{
+      margin-bottom: 0;
+    }
     .item {
         list-style: none;
         display: inline-block;
@@ -246,6 +249,14 @@ pre {
         }
         .post-link{
           padding: 20px;
+        }
+        .sub-title{
+          font-size: 0.67em;
+          font-style: italic;
+
+        }
+        .collaborators{
+          font-size: 1em;
         }
         @include media-query($on-palm) {
           width: 100%;
