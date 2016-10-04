@@ -109,11 +109,11 @@ h3{
  * Links
  */
 a {
-    color: $brand-color;
-    text-decoration: none;
+    color: #000;
+    // text-decoration: none;
 
     &:visited {
-        color: darken($brand-color, 15%);
+        color: lighten(#000, 15%);
     }
 
     &:hover {
@@ -239,13 +239,15 @@ pre {
     flex-wrap: wrap;
     h2{
       margin-bottom: 0;
+      padding-top: 6px;
+      padding-bottom: 6px;
     }
     .item {
         list-style: none;
         display: inline-block;
         width: calc(100% / 2);
         img{
-          max-height: 200px;
+          height: 200px;
         }
         .post-link{
           padding: 20px;
