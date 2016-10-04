@@ -22,4 +22,5 @@ I was able to use the [Cocos2d](http://www.cocos2d-x.org/) framework for the fir
 
 I added some fun ideas such as when you strummed the guitar or blew in the trumpet, it would "rain" a bunch of imagery including Chihuahua dogs, mike's bottles and confetti.
 
+Here is a video of the app:
 [![IMAGE ALT TEXT](http://img.youtube.com/vi/38KEFWHPHhg/0.jpg)](http://www.youtube.com/watch?v=38KEFWHPHhg "Video Title")
