@@ -13,8 +13,7 @@ I've always liked putting small things together and trying to make something fro
   <div class='item'>
     <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">
       <img src='{{ post.homepage-image}}'/>
-      <p>{{ post.title }}</p>
-      <p>{{ post.subheading }}</p>
+      <h2>{{ post.title }}</h2>
     </a>
   </div>
     {% endif %}
