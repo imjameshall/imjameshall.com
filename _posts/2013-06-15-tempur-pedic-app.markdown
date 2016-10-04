@@ -10,3 +10,4 @@ collaborators:
   name: MaxMedia
 ---
 
+After the success of the [Style Guide](/projects/home-depot-style-guide/)
