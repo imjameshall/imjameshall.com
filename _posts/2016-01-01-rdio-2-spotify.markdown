@@ -21,3 +21,5 @@ I decided to write an app that would be able to get my Rdio artists and albums a
 
 After some time of going through my albums and adding them I started hitting a random error that wouldn't allow me to add anymore music to my collection. Apparently Spotify only allows a user to "save" 10,000 songs. 
 
+I had a fun time playing with Spotify's API and learning a bit about it. At the end of the day I went through my list and followed the artists I had in my Rdio collection but wasn't able to get all the albums over. 
+
