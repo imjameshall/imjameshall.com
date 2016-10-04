@@ -20,7 +20,8 @@ The first issue I developed was the fall style guide:
 In the fall guide I was able to play with a lot of fun functionality such as in view Video as well as a lot of page build ups. 
 
 
-In the holiday style guide we got to play with a small amount of "VR" as well as hid some easter eggs. The video doesn't show it but in a specific view (the one where you can slide horizontally) if you shake the iPad, it would create a snow storm! You can view all of the other features here:
+In the holiday style guide we got to play with a small amount of "VR" as well as hid some easter eggs. The video doesn't show it but in a specific view (the one where you can slide horizontally) if you shake the iPad, it would create a snow storm! 
+You can view all of the other features here:
 [![IMAGE ALT TEXT](http://img.youtube.com/vi/3o30p0hRhBw/0.jpg)](http://www.youtube.com/watch?v=3o30p0hRhBw "Video Title")
 
 
