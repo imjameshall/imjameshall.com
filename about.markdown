@@ -5,7 +5,7 @@ date: 2016-07-27 15:30:00 -04:00
 
 ![14425341933_c05c555ac5_o.jpg](/uploads/14425341933_c05c555ac5_o.jpg)
 
-I'm currently using my 15+ years of development experience building experiences for a myriad of clients. No matter what kind of development they need, i'm quick to jump to the task.
+I'm currently using my 20+ years of development knowledge building experiences for a myriad of clients. No matter what kind of development they need, i'm quick to jump to the task.
 
 Most recently I was the VP of Software Development at [352](http://www.352inc.com) in Atlanta, Ga. I currently manage roughly 20 software developers, qa engineers and front-end developers.  I also provide estimates and proof of concept applications for pitches when needed.  I enjoy the challenged of hearing an idea and figuring out how to execute that idea, regardless of how challenging.
 
