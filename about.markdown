@@ -1,13 +1,15 @@
 ---
 title: About
-date: 2016-07-27 19:30:00 Z
+date: 2016-07-27 15:30:00 -04:00
 ---
 
 ![14425341933_c05c555ac5_o.jpg](/uploads/14425341933_c05c555ac5_o.jpg)
 
-I am currently the VP of Software Development at [352](http://www.352inc.com) in Atlanta, Ga. I currently manage roughly 20 software developers, qa engineers and front-end developers.  I also provide estimates and proof of concept applications for pitches when needed.  I enjoy the challenged of hearing an idea and figuring out how to execute that idea, regardless of how challenging.
+I'm currently using my 15+ years of development experience building experiences for a myriad of clients. No matter what kind of development they need, i'm quick to jump to the task.
 
-Before my time here at 352, I was the Director of Technology at [MaxMedia](http://www.maxmedia.com). Before that I was the Associate Technology Director at [Ten Agency](http://agencyten.com) where I worked on such awesome clients as Bacardi, Island Def Jam, Mike’s Hard Lemonade and Anvil Knitwear.
+Most recently I was the VP of Software Development at [352](http://www.352inc.com) in Atlanta, Ga. I currently manage roughly 20 software developers, qa engineers and front-end developers.  I also provide estimates and proof of concept applications for pitches when needed.  I enjoy the challenged of hearing an idea and figuring out how to execute that idea, regardless of how challenging.
+
+Before my time at 352, I was the Director of Technology at [MaxMedia](http://www.maxmedia.com). Before that I was the Associate Technology Director at [Ten Agency](http://agencyten.com) where I worked on such awesome clients as Bacardi, Island Def Jam, Mike’s Hard Lemonade and Anvil Knitwear.
 
 Previously I was a Sr Developer where I would work on various projects ranging from .NET CMS Systems, Ruby on Rails project management software, and iOS applications.  You could consider me a jack of all trades developer.  If something needs to get done, I will figure the language out and dive in.
 
