@@ -11,7 +11,7 @@ collaborators:
   url: http://twitter.com/jayemsee
 ---
 
-ImGame is my favorite App i've ever built and I still have a soft spot for it today. 
+ImGame is my favorite App i've ever built and I still have a soft spot for it today. Having written the entire iOS app, the database and APIs, its the first app where I was the full owner of the entire technical ecosystem.
 
 It's the culmination of MANY late nights and long weekends doing this project in our free time. I'll just post what our initial blog post said about this app:
 
@@ -30,4 +30,5 @@ Who are we: We are just a few guys who love gaming and saw a huge flaw in the wa
 
 If a picture is worth a thousand words; enjoy this visual - 
 ![peek.jpg](http://imga.me/images/1000.png )
+
 
