@@ -9,6 +9,9 @@ collaborators:
 
 ImGame is my favorite App i've ever built and I still have a soft spot for it today. Having written the entire iOS app, the database and APIs, its the first app where I was the full owner of the entire technical ecosystem.
 
+* lkjlgakjg
+* gagagag
+
 It's the culmination of MANY late nights and long weekends doing this project in our free time. I'll just post what our initial blog post said about this app:
 
 The quick pitch:  ImGame is a new mobile app that allows users to add friends and check into games.  ImGame is creating a new social network for gamers, by gamers, to keep all of your friends in sync with who’s playing what, and when. 
