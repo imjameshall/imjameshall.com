@@ -15,10 +15,13 @@ The quick pitch:  ImGame is a new mobile app that allows users to add friends an
 
 ImGame has the following features:
 
-* See what your friends are playing, at any time. Get a visual history of what you and your friends have been playing, on any console.
-* No more “just missing” the gaming session.  Too many times we’ve rushed to get online only to find out your friends just stopped playing.  With push notifications you are notified the second a friend checks in.
-* With Pwnerships, the user with the most check ins to a game has bragging rights.  Only you can check in to “de-pwn” them.
-* Users can collect tokens by doing various tasks through the ImGame network, checking in to specific games on specific days, checking in with friends, or even on to specific consoles.
+1) See what your friends are playing, at any time. Get a visual history of what you and your friends have been playing, on any console.
+
+2) No more “just missing” the gaming session.  Too many times we’ve rushed to get online only to find out your friends just stopped playing.  With push notifications you are notified the second a friend checks in.
+
+3) With Pwnerships, the user with the most check ins to a game has bragging rights.  Only you can check in to “de-pwn” them.
+
+4) Users can collect tokens by doing various tasks through the ImGame network, checking in to specific games on specific days, checking in with friends, or even on to specific consoles.
 
 Who are we: We are just a few guys who love gaming and saw a huge flaw in the way we played.  All too often we would try and schedule a gaming time and end up missing each other.  It would be 15 minutes after a friend signed off, or I would be watching TV with nothing to do, not knowing that 3 of my friends were playing Gears of War at that exact time.  ImGame remedies that.  If your friend starts to play Gears and checks in, you would get a notification telling you to get to curb stompin!
 
