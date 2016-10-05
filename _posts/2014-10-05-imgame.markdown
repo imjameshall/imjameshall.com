@@ -1,6 +1,8 @@
 ---
 title: ImGame
 date: 2014-10-05 13:08:00 -04:00
+categories:
+- work
 homepage-image: "/uploads/peek.jpg"
 collaborators:
 - name: Joshua Corliss
