@@ -17,7 +17,7 @@ I also noticed that my Discover Weekly playlist wasn't really playing what I rea
 
 I decided to write an app that would be able to get my Rdio artists and albums and I could choose to follow the same artist as well as save the album to my collection, hopefully being able to reach 1:1 parity with my Rdio account.
 
-![peek.jpg](/uploads/peek.jpg)
+![rdio-spotify.gif](/uploads/rdio-spotify.gif)
 
 After some time of going through my albums and adding them I started hitting a random error that wouldn't allow me to add anymore music to my collection. Apparently Spotify only allows a user to "save" 10,000 songs. 
 
