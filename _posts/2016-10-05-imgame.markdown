@@ -17,6 +17,9 @@ ImGame has the following features:
 
 1) See what your friends are playing, at any time. Get a visual history of what you and your friends have been playing, on any console.
 
+![peek.jpg](http://imga.me/splash/img/slides/screens/02.png)
+
+
 2) No more “just missing” the gaming session.  Too many times we’ve rushed to get online only to find out your friends just stopped playing.  With push notifications you are notified the second a friend checks in.
 
 ![peek.jpg](http://imga.me/splash/img/slides/screens/03.png)
