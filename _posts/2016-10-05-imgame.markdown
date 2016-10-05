@@ -1,6 +1,9 @@
 ---
 title: ImGame
 date: 2016-10-05 12:16:00 -04:00
+homepage-image: "/uploads/peek.jpg"
+collaborators:
+- 
 ---
 
 ImGame is my favorite App i've ever built and I still have a soft spot for it today. Having written the entire iOS app, the database and APIs, its the first app where I was the full owner of the entire technical ecosystem.
