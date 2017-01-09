@@ -7,24 +7,26 @@
     min-height: 56px;
     // Positioning context for the mobile navigation icon
     position: relative;
-    a{
-      text-decoration: none;
+
+    a {
+        text-decoration: none;
     }
-    h1{
-      text-decoration: none;
-      text-align: center;
-      font: 300 68px "harvest";
-      @media (min-width: 768px) {
-        font-size: 167px;
-      }
-      @media (min-width: 996px) {
-        font-size: 169px;
-      }
-      // span{
-      //   color:green;
-      //   border-bottom-color: black;
-      //   border-bottom-style: solid;
-      // }
+
+    h1 {
+        text-decoration: none;
+        text-align: center;
+        font: 300 68px "harvest";
+        @media (min-width: 768px) {
+            font-size: 167px;
+        }
+        @media (min-width: 996px) {
+            font-size: 169px;
+        }
+        // span{
+        //   color:green;
+        //   border-bottom-color: black;
+        //   border-bottom-style: solid;
+        // }
     }
 }
 
@@ -203,16 +205,57 @@
     color: $grey-color;
 }
 
-.post-link {
-    display: block;
-    // font-size: 24px;
-    p {
-        padding: 0;
-        margin: 0;
+.work-item {
+    a {
+        text-decoration: none;
     }
 
-    .post-info {
-        display: none;
+    .post-link {
+        display: block;
+        position: relative;
+        // font-size: 24px;
+        h2{
+          padding:0;
+          margin:0;
+          @media (min-width: 996px) {
+            font-size: 30px;
+          }
+        }
+        p {
+            padding: 0;
+            margin: 0;
+            text-decoration: none !important;
+            font-size: 15px;
+            max-width:650px;
+            @media (min-width: 996px) {
+              font-size: 25px;
+            }
+        }
+
+        .post-info {
+            -webkit-transition: opacity 0.25s cubic-bezier(.77,0,.175,1);
+            /* Safari */
+            transition: opacity 0.75s cubic-bezier(.77,0,.175,1);
+            @media (min-width: 996px) {
+                opacity: 0.0;
+                position: absolute;
+                left: 0;
+                right: 0;
+                top: 0;
+                bottom: 0;
+                text-align: center;
+                display: flex;
+                flex-direction: column;
+                justify-content: center;
+                align-items: center;
+                color: white;
+                background-color: rgba(45,45,45,0.9);
+            }
+
+            &:hover {
+                opacity: 1.0;
+            }
+        }
     }
 }
 /**
