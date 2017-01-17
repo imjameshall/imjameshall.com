@@ -1,5 +1,5 @@
 ---
-title: BELAY solutions
+title: Building BELAY Solutions with my friends at Hunt and Saw
 date: 2017-01-08 21:11:00 -05:00
 homepage-image: "/uploads/belay7.jpeg"
 collaborators:
@@ -7,14 +7,44 @@ collaborators:
   url: https://dribbble.com/mikevtee
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas cursus, nulla ac semper convallis, nisl nisl congue lorem, in imperdiet tortor mauris eget eros. Donec vehicula odio at cursus tempor. In facilisis elementum quam sit amet faucibus. Maecenas non sapien vitae augue auctor ullamcorper. Aenean lacinia mollis elementum. Cras porttitor sagittis sapien id mattis. Mauris eu massa nec metus eleifend aliquam id vel nibh. Nullam et commodo felis. In in nisl nulla. Vivamus odio velit, fermentum ac tincidunt quis, rhoncus at leo. Ut fermentum fermentum dolor, eu blandit velit finibus ullamcorper. Praesent non faucibus nulla.
+Right when I was toying with the idea of going freelance, my good friend Michael Van Tonder was on a similar path and had a lead on a pretty interesting challenge. Michael was in discussion with Bryan Miles from the Miles AG group, a parent company that had four subsidiaries that specialized in various virtual staffing offerings. If you need an assistant, webmaster, bookkeeper or copywriter and aren’t necessarily worried about where in the world they are, the Miles AG group has a solution that can staff any of these roles for you.
 
-![belay_animation.gif](/uploads/belay_animation.gif)
+As we all move towards a more remote-work friendly environment, these companies have been skyrocketing in demand as well as popularity, moving the Miles AG group into a unique position for all of their brands.
 
-In ac luctus nisl, et elementum metus. Nunc tincidunt porttitor urna vitae ultricies. In hac habitasse platea dictumst. Nullam sed convallis massa. Donec ac justo a diam rutrum elementum non sed lacus. Aenean mollis ligula nec ligula imperdiet pretium. Praesent consequat posuere metus, non consequat eros lacinia ut. Sed ac velit hendrerit, posuere dolor vel, vehicula nisl. Quisque urna ipsum, vestibulum quis elementum in, sollicitudin ac dolor. Proin sed enim at felis fermentum condimentum. Curabitur congue ex sed felis tincidunt efficitur. Vivamus non nisi eget lorem faucibus finibus in sit amet est. Vestibulum quis arcu quis augue sodales sodales a non orci.
+## The Need to Consolidate
+The Miles AG group had reached a point where they had 5 different sites (Ellipsis, Render, MAG Bookkeeping, ea Help, and Miles.AG) each focusing on one of their core competencies as well as an overarching site that helped describe the entire corporation’s goals at mind. 
 
-Maecenas molestie auctor metus sit amet consequat. Vivamus in ligula dolor. Cras ac nisi a metus condimentum feugiat. Duis suscipit varius ex at tincidunt. Suspendisse ut neque a justo viverra eleifend. Integer in molestie turpis. Nullam ut lobortis quam. Phasellus consectetur auctor urna, sed ultrices ipsum rhoncus eget.
+![Screenshot 2017-01-13 16.17.01.png](/uploads/Screenshot%202017-01-13%2016.17.01.png)
 
-Phasellus maximus elit eget finibus pulvinar. Nulla vel auctor purus, commodo ornare quam. Curabitur lacus metus, dignissim id tempus non, malesuada vel justo. Aliquam id semper leo. Fusce in purus mauris. Suspendisse eu nibh vel ipsum dictum feugiat. Vivamus sit amet metus ac tortor ultricies porttitor. Aenean vitae ipsum libero. Vivamus fringilla elementum bibendum. Pellentesque quis nunc facilisis, tincidunt tortor id, interdum nisl. Suspendisse at justo arcu. Mauris sit amet est consectetur, pretium neque sed, ullamcorper turpis. Vivamus eget posuere risus. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
+Each of these websites had its own wordpress instance with their own blog posts, pages, and CTAs to join the company. As one could imagine this ended up becoming quite convoluted with duplication of content and code necessary across multiple wordpress installs.
 
-Duis tempor maximus aliquam. Vestibulum mattis vulputate tincidunt. Phasellus et augue laoreet, rutrum nisl quis, dapibus enim. Donec sed nibh quis dolor semper dapibus. Pellentesque vehicula augue sit amet diam maximus, sit amet fermentum nulla malesuada. In rhoncus velit eu velit pellentesque porttitor. Mauris a aliquam magna. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Donec tincidunt fringilla neque, sed vulputate mi viverra non. Sed ut convallis massa. Sed dapibus orci vitae finibus laoreet. Donec magna purus, cursus facilisis metus vitae, ornare mattis tellus. Proin et urna a nisi semper sollicitudin non eu augue. Sed ut libero vehicula, accumsan est pharetra, condimentum nisl. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae;
+## Five companies become one
+The leadership team met with Hunt & Saw and went through the process of finding a singular name that would be synonymous with their company’s values and offerings. After a few rounds discussion and rewrites, the team decided on BELAY, and Michael went to work on creating the new brand.
+
+![Screenshot 2017-01-13 16.24.23.png](/uploads/Screenshot%202017-01-13%2016.24.23.png)
+
+The brand in short can be summed up in a single sentence:
+
+“BELAY is an innovative virtual solutions company. We push conventional thinking, and align people with practices to help organizations grow.”
+
+
+## The Build
+
+Once the designs and UX/IA was finalized I began to get started on the site. We had an aggressive timeline to complete the site by January 2nd for launch and needed to make sure we stayed on track. Michael was very supportive with answering any questions I may have had with any of the designs and how they would break down on the responsive grid. Even if we still couldn’t get it communicated clearly, he wouldn’t hesitate to give me a motion study.
+![faster.gif](/uploads/faster.gif)
+*Motion study for the mobile close menu icon*
+
+By using these guides it really helps add more life and feeling to the sites we create. As you can see below, with the menu icon in use on the mobile site:
+![belay_animation-0a1041.gif](/uploads/belay_animation-0a1041.gif)
+
+When working with my design team I typically approach it with an iterative way of thinking. It’s been my experience that no matter how picture perfect I think it may be, im gonna be a few pixels off. So I like to get my developed pages to the designer as fast as possible so we can go over it together and fine tune as best as possible.
+The joy of being able to work with some of my best friends in the industry is that they won’t be thrown off by this type of approach. A typical reply from Michael would be something like this:
+![Screenshot 2017-01-16 21.02.54.png](/uploads/Screenshot%202017-01-16%2021.02.54.png)
+
+To some developers this could be a huge point of cause and concern but for me it helps keep communication with my designer at all times and really helps me ensure that we get pixel perfect output. The best part about this process is that you really can feel the progress as you move closed to the deadline. 
+
+
+## The Launch
+Coming up towards the launch date we we’re lucky to have a handful of key stakeholders helping us QA the site. We made sure to have standups every other day to communicate any issues we may see and increased that cadence to twice a day on the last week prior to launch. The beauty of this team is that they understood the importance of being flexible when it came down to making decisions on critical items that were needed for launch.  We were able to launch on the exact date we had aimed for with a smooth deployment.
+[
+Check out BELAY solutions new website here.](https://www.belaysolutions.com)
