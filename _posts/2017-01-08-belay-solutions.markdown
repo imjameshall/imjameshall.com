@@ -46,5 +46,6 @@ To some developers this could be a huge point of cause and concern but for me it
 
 ## The Launch
 Coming up towards the launch date we we’re lucky to have a handful of key stakeholders helping us QA the site. We made sure to have standups every other day to communicate any issues we may see and increased that cadence to twice a day on the last week prior to launch. The beauty of this team is that they understood the importance of being flexible when it came down to making decisions on critical items that were needed for launch.  We were able to launch on the exact date we had aimed for with a smooth deployment.
-[
-Check out BELAY solutions new website here.](https://www.belaysolutions.com)
+  
+  
+[Check out BELAY solutions new website here.](https://www.belaysolutions.com)
