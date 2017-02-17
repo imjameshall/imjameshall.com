@@ -1,6 +1,7 @@
 ---
 title: Building BELAY Solutions with my friends at Hunt and Saw
 date: 2017-01-08 21:11:00 -05:00
+subheading: Bringing 5 companies under a unified site and brand.
 homepage-image: "/uploads/belay7.jpeg"
 collaborators:
 - name: Hunt and Saw
