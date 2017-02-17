@@ -27,7 +27,7 @@ The leadership team met with Hunt & Saw and went through the process of finding 
 
 The brand in short can be summed up in a single sentence:
 
-*“BELAY is an innovative virtual solutions company. We push conventional thinking, and align people with practices to help organizations grow.”*
+> BELAY is an innovative virtual solutions company. We push conventional thinking, and align people with practices to help organizations grow.
 
 
 
@@ -35,7 +35,7 @@ The brand in short can be summed up in a single sentence:
 
 Once the designs and UX/IA was finalized I began to get started on the site. We had an aggressive timeline to complete the site for launch and needed to make sure we stayed on track. Michael was very supportive with answering any questions I may have had with any of the designs and how they would break down on the responsive grid. Even if we still couldn’t get it communicated clearly, he wouldn’t hesitate to give me a motion study.
 ![faster.gif](/uploads/faster.gif)
-Motion study for the mobile close menu icon
+`Motion study for the mobile close menu icon`
 
 By using these guides it really helps add more life and feeling to the sites we create. As you can see below, with the menu icon in use on the mobile site:
 ![belay_animation-0a1041.gif](/uploads/belay_animation-0a1041.gif)
