@@ -7,13 +7,13 @@ collaborators:
   url: https://dribbble.com/mikevtee
 ---
 
-#Building BELAY Solutions with my friends at Hunt & Saw
+# Building BELAY Solutions with my friends at Hunt & Saw
 
 Right when I was toying with the idea of going freelance, my good friend Michael van Tonder was on a similar path and had a lead on a pretty interesting challenge. Michael was in discussion with Bryan Miles from the Miles AG group, a parent company that had four subsidiaries that specialized in various virtual staffing offerings. If you need an assistant, webmaster, bookkeeper or copywriter and aren’t necessarily worried about where in the world they are, the Miles AG group has a solution that can staff any of these roles for you.
 
 As we all move towards a more remote-work friendly environment, these companies have been skyrocketing in demand as well as popularity, moving the Miles AG group into a unique position for all of their brands.
 
-###The Need to Consolidate
+### The Need to Consolidate
 The Miles AG group had reached a point where they had 5 different sites (Ellipsis, Render, MAG Bookkeeping, ea Help, and Miles.AG) each focusing on one of their core competencies as well as an overarching site that helped describe the entire corporation’s goals at mind. 
 
 
@@ -31,7 +31,7 @@ The brand in short can be summed up in a single sentence:
 
 
 
-###The Build
+### The Build
 
 Once the designs and UX/IA was finalized I began to get started on the site. We had an aggressive timeline to complete the site for launch and needed to make sure we stayed on track. Michael was very supportive with answering any questions I may have had with any of the designs and how they would break down on the responsive grid. Even if we still couldn’t get it communicated clearly, he wouldn’t hesitate to give me a motion study.
 
