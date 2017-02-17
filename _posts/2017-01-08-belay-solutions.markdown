@@ -16,7 +16,7 @@ The Miles AG group had reached a point where they had 5 different sites (Ellipsi
 
 Each of these websites had its own WordPress instance with their own blog posts, pages, and CTAs to join the company. As one could imagine this ended up becoming quite convoluted with duplication of content and code across multiple WordPress installs.
 
-Five companies become one
+### Five companies become one
 The leadership team met with Hunt & Saw and went through the process of finding a singular name that would be synonymous with their company’s values and offerings. After a few rounds discussion and rewrites, the team decided on BELAY, and Michael went to work on creating the new brand.
 
 ![BELAY_BrandRecap.jpg](/uploads/BELAY_BrandRecap.jpg)
