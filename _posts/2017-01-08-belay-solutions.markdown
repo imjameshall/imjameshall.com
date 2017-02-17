@@ -35,13 +35,15 @@ Once the designs and UX/IA was finalized I began to get started on the site. We 
 By using these guides it really helps add more life and feeling to the sites we create. As you can see below, with the menu icon in use on the mobile site:
 ![belay_animation-0a1041.gif](/uploads/belay_animation-0a1041.gif)
 
-When working with my design team I typically approach it with an iterative way of thinking. It’s been my experience that no matter how picture perfect I think it may be, im gonna be a few pixels off. So I like to get my developed pages to the designer as fast as possible so we can go over it together and fine tune as best as possible. The joy of being able to work with some of my best friends in the industry is that they won’t be thrown off by this type of approach. A typical reply from Michael would be something like this:
+I like to take an iterative approach of development when working, and usually bring my designers into this method. It’s been my experience that no matter how picture perfect I think it may be, i'm going to be a few pixels off. Because of this, I like to get my developed pages to the designer as fast as possible so we can go over it together and fine tune as best as possible.   
+  
+A typical reply from Michael would be something like this:
 ![Screenshot 2017-01-16 21.02.54.png](/uploads/Screenshot%202017-01-16%2021.02.54.png)  
 
-To some developers this could be a huge point of stress and concern but for me it helps keep communication with my designer at all times and really helps me ensure that we get pixel perfect output. The best part about this process is that you really can feel the progress as you move closed to the deadline. We also had a google spreadsheet full of feedback and notes from the BELAY team really helped keep all of us on the same page for where we are at during the project.
+To some developers this could be a huge point of stress and concern but for me it helps keep a constant line of communication with my designer at all times. Aside from these visual feedbacks, we also had a google spreadsheet full of screenshots and notes from the BELAY team, which really helped keep all of us on the same page for where we were during the project.
 
 ### The Launch
-Coming up towards the launch date we we’re lucky to have a handful of key stakeholders helping us QA the site. We made sure to have standups every other day to communicate any issues we may see and increased that cadence to twice a day on the last week prior to launch. The beauty of this team is that they understood the importance of being flexible when it came down to making decisions on critical items that were needed for launch.  We were able to launch on the exact date we had aimed for with a smooth deployment.
+Coming up towards the launch date we were lucky to have a handful of key stakeholders helping us QA the site. We made sure to have stand-ups every other day to communicate any issues we may see and increased that cadence to twice a day on the last week prior to launch. The beauty of this team is that they understood the importance of being flexible when it came down to making decisions on critical items that were needed for launch.  We were able to launch on the exact date we had aimed for with a smooth deployment.
 
 ![belay7-4b66f9.jpeg](/uploads/belay7-4b66f9.jpeg)
 
