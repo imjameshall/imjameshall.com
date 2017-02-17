@@ -7,8 +7,6 @@ collaborators:
   url: https://dribbble.com/mikevtee
 ---
 
-# Building BELAY Solutions with my friends at Hunt & Saw
-
 Right when I was toying with the idea of going freelance, my good friend Michael van Tonder was on a similar path and had a lead on a pretty interesting challenge. Michael was in discussion with Bryan Miles from the Miles AG group, a parent company that had four subsidiaries that specialized in various virtual staffing offerings. If you need an assistant, webmaster, bookkeeper or copywriter and aren’t necessarily worried about where in the world they are, the Miles AG group has a solution that can staff any of these roles for you.
 
 As we all move towards a more remote-work friendly environment, these companies have been skyrocketing in demand as well as popularity, moving the Miles AG group into a unique position for all of their brands.
