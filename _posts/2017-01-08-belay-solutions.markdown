@@ -7,7 +7,7 @@ collaborators:
   url: https://dribbble.com/mikevtee
 ---
 
-Around the same time I was toying with the idea of going freelance, my good friend Michael van Tonder was on a similar path and had a lead on a pretty interesting challenge. Michael was in discussion with Bryan Miles from Miles AG, a parent company that had four subsidiaries that specialized in various virtual staffing offerings. If you need an assistant, webmaster, bookkeeper or copywriter and aren’t necessarily worried about where in the world they are, the Miles AG group has a solution that can staff any of these roles for you.
+Around the same time I was toying with the idea of going freelance, my good friend [Michael van Tonder](https://dribbble.com/huntandsaw) was on a similar path and had a lead on a pretty interesting challenge. Michael was in discussion with Bryan Miles from Miles AG, a parent company that had four subsidiaries that specialized in various virtual staffing offerings. If you need an assistant, webmaster, bookkeeper or copywriter and aren’t necessarily worried about where in the world they are, the Miles AG group has a solution that can staff any of these roles for you.
 
 ### The Need to Consolidate
 The Miles AG group had reached a point where they had 5 different sites (Ellipsis, Render, MAG Bookkeeping, ea Help, and Miles.AG) each focusing on one of their core competencies as well as an overarching site that helped describe the entire corporation’s goals at mind. 
