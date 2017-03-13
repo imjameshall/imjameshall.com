@@ -15,30 +15,22 @@ The Miles AG group had reached a point where they had 5 different websites, each
 
 ![Screenshot 2017-01-13 16.17.01.png](/uploads/Screenshot%202017-01-13%2016.17.01.png)
 
-Each of these websites had its own WordPress instance with their own blog posts, pages, and CTAs to join the company. As one could imagine, this ended up becoming convoluted with duplicate content and code across multiple WordPress installs.
+Each of these websites had its own WordPress instance with their own blog posts, pages, and CTAs to join the company. As one could imagine, this ended up becoming quite a large undertaking with duplicate content and code across multiple WordPress installs.
 
 ### Five Companies Become One
 The leadership team met with Hunt & Saw and went through the process of finding a single name that would be synonymous with their company’s values and offerings. After a few rounds of discussion and rewrites, the team decided on BELAY, and Michael went to work on creating the new brand.
 
 ![BELAY_BrandRecap.jpg](/uploads/BELAY_BrandRecap.jpg)
 
-The brand can be summed up in a single sentence:
-
-> BELAY is an innovative virtual solutions company. We push conventional thinking, and align people with practices to help organizations grow.
-
-
-
 ### The Build
 
-Once the designs and UX/IA were finalized, I started working on the website. We had an aggressive timeline to complete the site for launch and needed to make sure we stayed on track. Michael was very supportive with answering any questions I had with the designs and how they would reflow on the responsive grid. If we still had trouble translating the design, he wouldn’t hesitate to give me a motion study.
+Once the designs and UX/IA were finalized I got started working on the website. Time was of the essence with the site launch date and we had a lot of ground to cover. Michael was very supportive with answering any questions I had with the designs and how they would flow on the grid. If we still had trouble translating the design, he wouldn’t hesitate to give me a motion study.
 ![faster.gif](/uploads/faster.gif)
 
-I actually love getting motion studies like these from the designers; You can only get so much of a feel of the design from the file you’re supplied. 
 ![belay_animation-0a1041.gif](/uploads/belay_animation-0a1041.gif)
 
-I like to take an iterative approach when I code and usually bring my designers aboard with this method. A big reason I like being able to work this way is that I get my front-end code back to the designer more quickly so we can go over it together and fine tune as best as possible.   
+In order to get my projects out in time I prefer to work with designers who are comfortable with iterating over the same page a few times in a quick fashion. Typically a response from the designer would look like this:
   
-A typical reply from Michael would be something like this:
 ![Screenshot 2017-01-16 21.02.54.png](/uploads/Screenshot%202017-01-16%2021.02.54.png)  
 
 Not everyone is well equipped to deal with feedback like this. Some developers could take this and it would be a huge point of stress and concern, but for me it helps keep a constant line of communication with my designer at all times. 
@@ -55,5 +47,3 @@ Coming up towards the launch date we were lucky to have a handful of key stakeho
 ![belay4.jpeg](/uploads/belay4.jpeg)
 
 [Check out BELAY solutions new website here.](https://belaysolutions.com)
-
-
