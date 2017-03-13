@@ -29,6 +29,7 @@ Once the designs and UX/IA were finalized I got started working on the website. 
 
 ![belay_animation-0a1041.gif](/uploads/belay_animation-0a1041.gif)
 
+### Iterative QA
 In order to get my projects out in time I prefer to work with designers who are comfortable with iterating over the same page a few times in a quick fashion. Typically a response from the designer would look like this:
   
 ![Screenshot 2017-01-16 21.02.54.png](/uploads/Screenshot%202017-01-16%2021.02.54.png)  
