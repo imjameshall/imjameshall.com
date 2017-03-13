@@ -6,6 +6,7 @@ homepage-image: "/uploads/belay7.jpeg"
 collaborators:
 - name: Hunt and Saw
   url: https://dribbble.com/mikevtee
+OG-Title: Belay Solutions
 ---
 
 When I started freelancing, my good friend [Michael van Tonder of Hunt & Saw](https://dribbble.com/huntandsaw) was on a similar path and had a lead on an interesting challenge. Michael was in discussions with Bryan Miles from Miles AG, a company that had four subsidiaries that specialized in virtual staffing. If you need an assistant, webmaster, bookkeeper or copywriter and aren’t necessarily worried about where in the world they are, the Miles AG group can staff any of these roles for you.
