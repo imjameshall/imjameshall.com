@@ -1,6 +1,8 @@
 ---
 title: Building BELAY Solutions with my friends at Hunt and Saw
 date: 2017-01-08 21:11:00 -05:00
+categories:
+- work
 subheading: Five websites become one
 homepage-image: "/uploads/belay7.jpeg"
 collaborators:
